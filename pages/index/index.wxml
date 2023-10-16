@@ -18,4 +18,5 @@
     </block>
   </view-->
     <image show-menu-by-longpress="{{ true }}" mode="widthFix" lazy-load="{{ true }}" class="QRCode" src="../img/scan.jpg"/>
+    <text style="width: 239rpx; height: 36rpx; box-sizing: border-box; font-size: small; display: block; bottom: 36rpx; position: absolute">Author by 浩业宸一</text>
 </view>

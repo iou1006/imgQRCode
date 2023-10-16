@@ -1,0 +1,15 @@
+<view class="container" style="height: 100%">
+  <view class="mainbody">
+    <block class="block1">
+      <view class="view1" bindtap="bindViewTap" style="font: bolder">
+        <h1>浩业宸一</h1>
+      </view>
+    </block>
+    <block class="block1">
+      <view class="view1" bindtap="bindViewTap">
+        <text>创业第一步，先吵架</text>
+      </view>
+    </block>
+  </view>
+    <text style="width: 239rpx; height: 36rpx; box-sizing: border-box; font-size: small; display: block; bottom: 36rpx; position: absolute">Author by 浩业宸一</text>
+</view>
